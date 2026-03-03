@@ -1,0 +1,9 @@
+# Ignorar archivos de texto con claves
+*.txt
+
+# Ignorar carpeta de contraseñas
+pass/
+
+# Ignorar archivos de sistema
+.DS_Store 
+Thumbs.db
